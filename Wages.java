@@ -1,8 +1,15 @@
 public class Wages {
-    double Wage= 2500d;
-    public static void main(String[] args) {
-        int Wage = 5000;
-        System.out.println("Wage is" + " "  + Wage);
+   
+    int DepartmentId=150;
+    
+    String DepartmentName="IT support";
+    
+    public void GetDepartmentId(){
+    
+        System.out.println("Department ID is" +" "+ DepartmentId);
     }
     
+    public String GetDepartmentName(){
+        return DepartmentName;
+    }
 }
