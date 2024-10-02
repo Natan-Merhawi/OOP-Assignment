@@ -1,3 +1,4 @@
+package Exercises;
 public class Employee {
     int EmployeeId=150;
     String EmployeeDepartment = "Front desk" ;

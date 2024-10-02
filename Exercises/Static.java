@@ -1,3 +1,4 @@
+package Exercises;
 class Book {
     // Static variable
     static int totalBooks = 0;

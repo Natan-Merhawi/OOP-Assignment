@@ -1,3 +1,4 @@
+package Exercises;
 public class Variable {
   String Var= "first one";
   String Var1= "Secong one";

@@ -1,3 +1,4 @@
+package Exercises;
 public class Wages {
    
     int DepartmentId=150;
